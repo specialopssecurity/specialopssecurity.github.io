@@ -510,6 +510,7 @@ pre > code {
 }
 .header {
   background-color: #000;
+  border-bottom: 2px solid #FED559;
   color: #fff;
   position: absolute;
   z-index: 4;
@@ -562,7 +563,10 @@ pre > code {
   left: 0;
   width: 100%;
   height: auto;
-  background-color: #6B747B;
+  background-color: #000;
+}
+.header__links:hover {
+  color: #FED559;
 }
 .header__link {
   color: #fff;
