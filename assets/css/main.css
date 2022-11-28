@@ -509,16 +509,13 @@ pre > code {
   }
 }
 .header {
-  background-color: #6B747B;
-  color: #343851;
+  background-color: #000;
+  color: #fff;
   position: absolute;
   z-index: 4;
   width: 100%;
   top: 0;
   left: 0;
-  will-change: transform;
-  transition: transform 0.3s, background-color 0.5s ease;
-  transform: translateY(0%);
 }
 .header a {
   display: flex;
@@ -528,7 +525,6 @@ pre > code {
 .header.fix-nav {
   position: fixed;
   background-color: #fff;
-  transition: transform 0.3s, background-color 0.5s ease;
   z-index: 5;
 }
 .header.hide-nav {
@@ -546,7 +542,6 @@ pre > code {
   color: #313237;
 }
 .header__logo:hover {
-  color: #313237;
   border-bottom: 0;
 }
 .header__logo .header__logo--container {
@@ -570,7 +565,7 @@ pre > code {
   background-color: #6B747B;
 }
 .header__link {
-  color: #343851;
+  color: #fff;
   padding: 0.938rem 0;
   border-top: 1px solid #ededed;
 }
