@@ -18,14 +18,8 @@
     {% endif %}
 
     {% include header.html %}
-
-    <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img }}">
-      <div class="hero__wrap">
-        <h1 class="hero__title">{{ site.title | escape }}</h1>
-        
-      </div>
-    </div>
-{% include carousel.html height="600" unit="px" duration="5" number="1" %}
+    
+    {% include carousel.html height="600" unit="px" duration="5" number="1" %}
     
     <main class="site__content">
       <section class="blog">
