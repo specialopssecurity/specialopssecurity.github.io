@@ -6,4 +6,10 @@
 #
 layout: default
 title: 888-R-U-OWNED
+carousels:
+  - images: 
+    - image: /assets/img/hero_laptop.png
+    - image: /assets/img/hero_scada.png
+    - image: /assets/img/hero_beard.png
+    - image: /assets/img/hero_hood.png
 ---
