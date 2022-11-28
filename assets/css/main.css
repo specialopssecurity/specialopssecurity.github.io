@@ -546,13 +546,13 @@ pre > code {
   border-bottom: 0;
 }
 .header__logo .header__logo--container {
-  width: 388px;
-  height: 80px;
+  width: 291px;
+  height: 60px;
 }
 .header__inner {
   display: flex;
   align-items: center;
-  height: 100px;
+  height: 60px;
   justify-content: space-between;
 }
 .header__links {
