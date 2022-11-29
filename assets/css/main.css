@@ -146,12 +146,17 @@
   height: 120%;
   opacity: 1;
 }
+.header__links-small {
+  display: flex;
+  height: 100%;
+  padding: 0;
+}
 @media (min-width: 48em) {
   .header__toggle {
     display: none;
     visibility: hidden;
   }
-  #header__links-small {
+  .header__links-small {
     display: none;
     visibility: hidden;
   }
