@@ -10,7 +10,7 @@ and 27 countries.
 
 ## Electronic
 
-You may reach us at sales@specialopssecurity or by telephone in the United States by dialing <strong>888-R-U-OWNED</strong> (or for 
+You may reach us at sales@specialopssecurity.com or by telephone in the United States by dialing <strong>888-R-U-OWNED</strong> (or for 
 some nostalgia, FAX 888-786-9633). 
 
 ## Physical 
