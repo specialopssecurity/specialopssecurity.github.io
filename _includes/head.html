@@ -2,9 +2,6 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  {% seo %}
-
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/icons/apple-touch-icon.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{'/assets/img/icons/favicon-32x32.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{'/assets/img/icons/favicon-16x16.png' | relative_url }}">
@@ -13,18 +10,17 @@
   <meta name="apple-mobile-web-app-title" content="SpecialOps">
   <meta name="application-name" content="SpecialOps">
   <meta name="theme-color" content="#ffffff">
-
   {% if site.google_tag_manager %}
-
     {% include gtm.html %}
-
   {% endif %}
-
-  <style class="inlineCSS">
-
-    {% include critical.css %}
-
-  </style>
+  <link rel="stylesheet" href="{{ '/assets/css/fix.css' | relative_url }}?{{site.time | date: '%s%N'}}">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?{{site.time | date: '%s%N'}}" media="print" onload="this.media='all'; this.onload=null;">
   <noscript><link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?{{site.time | date: '%s%N'}}"></noscript>
+<!--
+ █████   █████   █████        ██████        ██    ██        ██████  ██     ██ ███    ██ ███████ ██████  
+██   ██ ██   ██ ██   ██       ██   ██       ██    ██       ██    ██ ██     ██ ████   ██ ██      ██   ██ 
+ █████   █████   █████  █████ ██████  █████ ██    ██ █████ ██    ██ ██  █  ██ ██ ██  ██ █████   ██   ██ 
+██   ██ ██   ██ ██   ██       ██   ██       ██    ██       ██    ██ ██ ███ ██ ██  ██ ██ ██      ██   ██ 
+ █████   █████   █████        ██   ██        ██████         ██████   ███ ███  ██   ████ ███████ ██████  
+-->
 </head>
