@@ -3,7 +3,11 @@
     <div class="header__inner">
       <a class="header__logo" href="{{ '/' | relative_url }}">
         <div class="header__logo--container">
+          {% if page.title == '888-R-U-OWNED' %}
+          888-R-U-OWNED
+          {% else %}
           <img id="header__logo--img" src="{{ '/assets/img/logo.png' | relative_url }}" />
+          {% endif %}
         </div>
       </a>
       <nav class="header__links">
@@ -14,7 +18,7 @@
             </a>
           {% endfor %}
         </div>
-        <div id="header__links-small" class="container header__links-wrapper">
+        <div class="container header__links-small">
           {% for item in site.mobilenav %}
             <a class="header__link" href="{{ item.link | relative_url }}" itemprop="url">
               <span itemprop="name">{{ item.name }}</span>
