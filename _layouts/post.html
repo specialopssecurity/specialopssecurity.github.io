@@ -1,5 +1,5 @@
 ---
-layout: compress
+
 ---
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
@@ -43,14 +43,7 @@ layout: compress
         <span>
           <time>{{ page.date | date_to_string }}</time>&nbsp;&middot;
         </span>
-        <span>
-            {% assign words = content | number_of_words %}
-              {% if words < 360 %}
-                1 min
-              {% else %}
-                {{ words | divided_by:180 }} mins
-            {% endif %} read
-        </span>
+        
       </p>
     </div>
   </div>
@@ -93,20 +86,6 @@ layout: compress
         </div>
       </div>
     </div>
-
-    {% if site.disqus.shortname %}
-
-    <div class="comments">
-      <div class="container">
-        <div class="post-content">
-
-          {% include disqus.html %}
-
-        </div>
-      </div>
-    </div>
-
-    {% endif %}
 
   </main>
 
