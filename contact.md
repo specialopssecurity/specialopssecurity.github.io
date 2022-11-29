@@ -4,9 +4,7 @@ title: Contact Us
 permalink: /contact/
 ---
 
-After the 2020 pandemic, it seemed silly to continue paying rent on an office so we've gone virtual. Our assessment
-team is located within the continental United States and has worked on previous engagements across five continents 
-and 27 countries. 
+After the 2020 pandemic, it seemed silly to continue paying rent on our beautiful [Newport Beach office](/assets/img/newport.jpg) so we've gone virtual. Our assessment team is located within the continental United States and has worked on previous engagements across five continents and 27 countries. 
 
 ## 📧 Email
 
