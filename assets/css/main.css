@@ -165,7 +165,6 @@
   }
   .header__links {
     padding: 0;
-    padding-bottom: 0.5rem;
     display: flex;
     flex-direction: column;
     position: static;
