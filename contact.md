@@ -20,4 +20,4 @@ If you must send us physical mail, you may route postal mail to our corporate ag
 
 ## 🎨 Graphics
 
-Our graphic designer wanted you to know that our corporate logo is available as a high-resolution [Encapsulated PostScript](/assets/img/logo.eps) and is comprised of bespoke stylized lettering in Pantone PMS 5763 Green and PMS 452 Tan, with the word "Security" in pure white set in Linotype _Bank Gothic&reg; Medium_.
+Our graphic designer wanted you to know that our [corporate logo](/assets/img/SpecialOpsSecurity.png) is available as a high-resolution [Encapsulated PostScript](/assets/img/logo.eps) and is comprised of bespoke stylized lettering in Pantone PMS 5763 Green and PMS 452 Tan, with the word "Security" in pure white set in Linotype _Bank Gothic&reg; Medium_.
