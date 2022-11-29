@@ -5,7 +5,8 @@
         {% if page.title == '888-R-U-OWNED' %}
           <div class="header__logo--container" style='margin: auto;'>888-R-U-OWNED
         {% else %}
-          <img id="header__logo--img" src="{{ '/assets/img/logo.png' | relative_url }}" />
+          <div class="header__logo--container">
+            <img id="header__logo--img" src="{{ '/assets/img/logo.png' | relative_url }}" />
         {% endif %}
           </div>
       </a>
