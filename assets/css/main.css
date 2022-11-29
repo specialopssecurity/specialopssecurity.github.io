@@ -1242,14 +1242,14 @@ table th, table td {
 }
 .hero--small {
   margin: 3.75rem auto 0;
-  min-height: 8.75rem;
+  min-height: 7rem;
   width: 100%;
   position: relative;
-  background-color: #313237;
+  background: url("/assets/img/hero-camo.png") repeat center;
 }
 @media only screen and (min-width: 62em) {
   .hero--small {
-    height: 12.5em;
+    height: 7em;
   }
 }
 .hero--small::before {
