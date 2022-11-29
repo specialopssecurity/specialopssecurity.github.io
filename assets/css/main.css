@@ -69,14 +69,11 @@
 }
 .header__logo:hover {
   border-bottom: 0;
-}
-.header__logo a:hover {
-  color: #FED559;
+  color: #fff;
 }
 .header__logo .header__logo--container {
   width: 280px;
   height: 60px;
-  margin: auto;
 }
 .header__inner {
   display: flex;
