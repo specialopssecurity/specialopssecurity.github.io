@@ -95,10 +95,15 @@
   position: static;
   font-size: 0.75rem;
 }
+  .header__link {
+  }
+
 .header__link {
   color: #fff;
-  padding: 0.938rem 0;
-  border-top: 1px solid #FED559;
+  padding: 0.938rem 0.5rem;
+  position: relative;
+  border: 0;
+  height: 100%;
 }
 .header__link a:hover {
   color: #FED559;
@@ -176,10 +181,7 @@
     visibility: visible;
   }
   .header__link {
-    position: relative;
     padding: 0.938rem 1rem;
-    border: 0;
-    height: 100%;
   }
   .header__link::after {
     content: "";
