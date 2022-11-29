@@ -2,13 +2,12 @@
   <div class="container">
     <div class="header__inner">
       <a class="header__logo" href="{{ '/' | relative_url }}">
-        <div class="header__logo--container">
-          {% if page.title == '888-R-U-OWNED' %}
-          888-R-U-OWNED
-          {% else %}
+        {% if page.title == '888-R-U-OWNED' %}
+          <div class="header__logo--container" style='margin: auto;'>888-R-U-OWNED
+        {% else %}
           <img id="header__logo--img" src="{{ '/assets/img/logo.png' | relative_url }}" />
-          {% endif %}
-        </div>
+        {% endif %}
+          </div>
       </a>
       <nav class="header__links">
         <div class="container header__links-wrapper">
