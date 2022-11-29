@@ -627,8 +627,12 @@ pre > code {
   height: 120%;
   opacity: 1;
 }
-@media (min-width: 62em) {
+@media (min-width: 37.5em) {
   .header__toggle {
+    display: none;
+    visibility: hidden;
+  }
+  .header__links-mobile {
     display: none;
     visibility: hidden;
   }
