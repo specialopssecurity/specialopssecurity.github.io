@@ -17,3 +17,7 @@ Reach us by telephone by dialing <strong>888-R-U-OWNED</strong> in the United St
 ## 📮 Postal 
 
 If you must send us physical mail, you may route postal mail to our corporate agency at 5348 Vegas Drive, Suite 967, Las Vegas, NV 89108.
+
+## 🎨 Graphics
+
+Our graphic designer wanted you to know that our corporate logo is available as a high-resolution [Encapsulated PostScript](/assets/img/logo.eps) and is comprised of bespoke stylized lettering in Pantone PMS 5763 Green and PMS 452 Tan, with the word "Security" in pure white set in Linotype _Bank Gothic&reg; Medium_.
