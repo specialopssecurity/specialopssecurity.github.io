@@ -7,7 +7,6 @@ url: "https://specialopssecurity.github.io/"
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
   - {name: 'Audit', link: '/audit'}
   - {name: 'Train', link: '/train'}
   - {name: 'Tools', link: '/tools'}
