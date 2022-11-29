@@ -14,7 +14,7 @@
             </a>
           {% endfor %}
         </div>
-        <div class="container header__links-small">
+        <div id="header__links-small" class="container header__links-wrapper">
           {% for item in site.mobilenav %}
             <a class="header__link" href="{{ item.link | relative_url }}" itemprop="url">
               <span itemprop="name">{{ item.name }}</span>
