@@ -84,17 +84,15 @@
 .header__links {
   display: none;
 }
-.header__links-narrow {
+.header__links-wrapper {
+  display: flex;
+  height: 100%;
   padding: 0;
-  padding-bottom: 0.5rem;
+}
+.header__links-narrow {
   display: flex;
   flex-direction: column;
   position: static;
-  top: 3.75em;
-  left: 0;
-  width: 100%;
-  height: auto;
-  height: 100%;
   font-size: 0.75rem;
 }
 .header__link {
@@ -176,11 +174,6 @@
     height: 100%;
     background-color: #000;
     visibility: visible;
-  }
-  .header__links-wrapper {
-    display: flex;
-    height: 100%;
-    padding: 0;
   }
   .header__link {
     position: relative;
