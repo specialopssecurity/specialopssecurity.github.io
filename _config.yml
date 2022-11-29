@@ -6,12 +6,17 @@ baseurl: "/"
 url: "https://specialopssecurity.github.io/" 
 
 # THEME SETTINGS
-navigation: # Navigation links
+navigation: 
   - {name: 'Audit', link: '/audit'}
   - {name: 'Train', link: '/train'}
   - {name: 'Tools', link: '/tools'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+
+mobilenav: 
+  - {name: 'About', link: '/about'}
+  - {name: 'Contact', link: '/contact'}
+
 
 hero_img: hero.png #  use the path from /assets/img/ 
 
