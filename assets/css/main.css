@@ -65,14 +65,18 @@
   margin-right: 1.25rem;
   outline: 0;
   border-bottom: 0;
-  color: #313237;
+  color: #FED559;
 }
 .header__logo:hover {
   border-bottom: 0;
 }
+.header__logo a:hover {
+  color: #FED559;
+}
 .header__logo .header__logo--container {
   width: 280px;
   height: 60px;
+  margin: auto;
 }
 .header__inner {
   display: flex;
