@@ -8,11 +8,14 @@ After the 2020 pandemic, it seemed silly to continue paying rent on an office so
 team is located within the continental United States and has worked on previous engagements across five continents 
 and 27 countries. 
 
-## Electronic
+## 📧 Email
 
-You may reach us at sales@specialopssecurity.com or by telephone in the United States by dialing <strong>888-R-U-OWNED</strong> (or for 
-some nostalgia, FAX 888-786-9633). 
+You may reach us at sales@specialopssecurity&bull;com or reach the back office at acct@specialopssecurity&bull;com.
 
-## Physical 
+## ☎️ Telephone
 
-If you must send us physical mail, you may route postal mail to 5348 Vegas Drive, Suite 967, Las Vegas, NV 89108.
+Reach us by telephone by dialing <strong>888-R-U-OWNED</strong> in the United States. For some fun nostalgia, try sending us a FAX to 888-786-9633. 
+
+## 📮 Postal 
+
+If you must send us physical mail, you may route postal mail to our corporate agency at 5348 Vegas Drive, Suite 967, Las Vegas, NV 89108.
