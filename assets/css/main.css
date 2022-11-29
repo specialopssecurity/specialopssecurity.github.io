@@ -81,7 +81,9 @@
   height: 60px;
   justify-content: space-between;
 }
-
+.header__links {
+  display: none;
+}
 .header__links-narrow {
   padding: 0;
   padding-bottom: 0.5rem;
