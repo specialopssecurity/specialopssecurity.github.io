@@ -664,11 +664,11 @@ pre > code {
     transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
   }
   .header__link:hover {
-    color: #0f4c9c;
+    color: #FED559;
   }
   .header__link:hover::after, .header__link :active::after, .header__link :focus::after {
     transform: scaleX(1);
-    color: #0f4c9c;
+    color: #FED559;
     transition: transform 0.2s ease-in-out;
   }
 }
