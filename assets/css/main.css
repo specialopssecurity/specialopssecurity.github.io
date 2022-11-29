@@ -515,7 +515,8 @@ pre > code {
   border-bottom: 2px solid #FED559;
   color: #fff;
   font-family: 'Orbitron', sans-serif;
-  font-weight: 400;
+  font-weight: 700;
+  letter-spacing: 1px;
   position: absolute;
   z-index: 4;
   width: 100%;
@@ -1282,9 +1283,10 @@ table th, table td {
   }
 }
 .hero__wrap .hero__title {
-  font-size: 1.8em;
+  font-size: 2em;
   font-family: 'Orbitron', sans-serif;
   font-weight: 700;
+  letter-spacing: 1px;
   color: #fff;
   text-shadow: 0 0 12px #000000;
 }
