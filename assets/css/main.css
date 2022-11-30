@@ -80,6 +80,7 @@
   align-items: center;
   height: 60px;
   justify-content: space-between;
+  margin: 0 -1.5rem;
 }
 .header__links {
   display: none;
