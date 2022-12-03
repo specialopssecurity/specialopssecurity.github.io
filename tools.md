@@ -8,15 +8,12 @@ permalink: /tools/
   <section class="blog">
     <div class="container">
       <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">        
-        
-        {% for post in site:posts %}
-          {% if post.categories == "Tools" %}
+        {% for post in site.categories['Tools'] %}
             {% include card.html %}
-          {% endif %}
         {% endfor %}
 
       </div>
     </div>
   </section>
 
-3
+4
