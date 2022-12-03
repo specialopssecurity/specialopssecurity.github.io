@@ -10,7 +10,7 @@ permalink: /tools/
       <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">        
         
         {% for post in site:posts %}
-          {% if post.categories == "tools" %}
+          {% if post.categories == "Tools" %}
             {% include card.html %}
           {% endif %}
         {% endfor %}
@@ -19,4 +19,4 @@ permalink: /tools/
     </div>
   </section>
 
-2
+3
