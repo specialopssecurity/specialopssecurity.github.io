@@ -5,6 +5,8 @@ category: tools
 permalink: /tools/
 ---
 
+In conjunction with our primary cybersecurity audit and training services, we also resell powerful assessment tools for information security professionals. 
+
   <section class="blog">
     <div class="container">
       <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">        
@@ -15,5 +17,3 @@ permalink: /tools/
       </div>
     </div>
   </section>
-
-4
