@@ -321,6 +321,7 @@ button:disabled:hover, button:disabled :focus {
   }
 }
 .post-card__label {
+  display: hidden;
   position: absolute;
   top: 1.5rem;
   left: 1.5rem;
