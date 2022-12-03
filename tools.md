@@ -21,7 +21,7 @@ permalink: /tools/
 
 <div>
   <div class="archive-group">
-    {% for post in site.categories["tools"] %}
+    {% for post in site.categories[tools] %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
