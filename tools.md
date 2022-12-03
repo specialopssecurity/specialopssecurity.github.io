@@ -20,15 +20,11 @@ permalink: /tools/
   </section>
 
 <div>
-{% for category in site.categories %}
-  {% if category contains "tools" %}
   <div class="archive-group">
-    {% for post in site.categories[category_name] %}
+    {% for post in site.categories["tools"] %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
     {% endfor %}
   </div>
-  {% endif %}
-{% endfor %}
 </div>
