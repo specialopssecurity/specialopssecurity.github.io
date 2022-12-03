@@ -10,7 +10,7 @@ permalink: /tools/
       <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
         {% for post in site:posts %}
-          {% if post.category contains page.category %}
+          {% if post.category contains "tools" %}
             {% include card.html %}
           {% endif %}
         {% endfor %}
@@ -21,7 +21,7 @@ permalink: /tools/
 
 <div>
 {% for category in site.categories %}
-  {% if category contains page.category %}
+  {% if category contains "tools" %}
   <div class="archive-group">
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
