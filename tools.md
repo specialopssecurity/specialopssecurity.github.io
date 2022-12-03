@@ -4,8 +4,20 @@ title: Tools
 permalink: /tools/
 ---
 
+      <section class="blog">
+        <div class="container">
+          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+
+            {% for post in site.categories.tools %}
+              {% include card.html %}
+            {% endfor %}
+
+          </div>
+        </div>
+      </section>
+
 <div>
-{% for category in site.categories %}
+{% for category in site.categories.tools %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
