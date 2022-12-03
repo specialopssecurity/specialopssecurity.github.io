@@ -7,10 +7,10 @@ permalink: /tools/
 
   <section class="blog">
     <div class="container">
-      <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-
+      <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">        
+        
         {% for post in site:posts %}
-          {% if post.category == "tools" %}
+          {% if post.categories == "tools" %}
             {% include card.html %}
           {% endif %}
         {% endfor %}
@@ -19,4 +19,4 @@ permalink: /tools/
     </div>
   </section>
 
-1
+2
