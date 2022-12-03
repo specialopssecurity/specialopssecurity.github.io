@@ -211,6 +211,22 @@ hr {
   margin: 40px 0;
 }
 
+.grid {
+  display: flex;
+}
+.col-1-2 {
+  flex: 1;
+}
+.col-1-2:last-child {
+  margin-left: 20px;
+}
+
+.books-photo {
+}
+.books-title {
+}
+
+
 footer {
   padding: 1.8rem 0;
   border-top: 2px solid #FED559;
