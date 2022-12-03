@@ -221,9 +221,19 @@ hr {
   margin-left: 20px;
 }
 
+.books-col {
+  column-count: 2;
+  column-gap: 40px;
+  column-rule-style: solid;
+}
+.books-wrapper {
+  width: 100%;
+}
 .books-photo {
+  width: 150px;
 }
 .books-title {
+  width: 100%;
 }
 
 
