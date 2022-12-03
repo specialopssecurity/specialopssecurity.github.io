@@ -1,23 +1,26 @@
 ---
 layout: page
 title: Tools
+category: tools
 permalink: /tools/
 ---
 
-      <section class="blog">
-        <div class="container">
-          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+  <section class="blog">
+    <div class="container">
+      <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-            {% for post in site.categories.tools %}
-              {% include card.html %}
-            {% endfor %}
+        {% for post in site:posts %}
+          {% if post.categories contains page.category %}
+            {% include card.html %}
+          {% endif %}
+        {% endfor %}
 
-          </div>
-        </div>
-      </section>
+      </div>
+    </div>
+  </section>
 
 <div>
-{% for category in site.categories.tools %}
+{% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
