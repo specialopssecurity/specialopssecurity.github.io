@@ -221,7 +221,7 @@ hr {
   margin-left: 20px;
 }
 
-.books-col {
+.books-cols {
   column-count: 2;
   column-gap: 40px;
   column-rule-style: solid;
