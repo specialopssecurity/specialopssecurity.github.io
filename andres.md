@@ -5,8 +5,7 @@ permalink: /andres/
 ---
 
 
-# SA@SpecialOpsSecurity•com [🔒](https://keybase.io/stevenandres/pgp_keys.asc?fingerprint=f8e8a9a76ab9452fea3925793ecf7d681f3fa845){:target="_blank"} [![LinkedIn](/assets/img/icons/linkedin.png)](https://linkedin.com/in/stevenandres){:target="_blank"} [🎓](https://homelandsecurity.sdsu.edu/faculty/andres){:target="_blank"} [📞](tel:+18887869633) ext 111
-
+# SA@SpecialOpsSecurity•com [🔒](https://keybase.io/stevenandres/pgp_keys.asc?fingerprint=f8e8a9a76ab9452fea3925793ecf7d681f3fa845 "PGP Public Key"){:target="_blank"} [![LinkedIn](/assets/img/icons/linkedin.png)](https://linkedin.com/in/stevenandres "LinkedIn Profile"){:target="_blank"} [🎓](https://homelandsecurity.sdsu.edu/faculty/andres "Faculty Biography"){:target="_blank"} [📞](tel:+18887869633) ext 111
 
 [<img class="headshot" align="right" src="/assets/img/team/andres.jpg" title="Click to Expand" />](/assets/img/team/andres.jpg)
 Steven Andr&eacute;s is the founder of Special Ops Security and serves as its Managing Principal. He is a Certified Ethical Hacker (CEH) and earned the distinction of being a Certified Information Systems Security Professional (CISSP). With a little more than 22 years of professional experience, he is frequently invited to speak on secure architecture best practices and information security current events. In addition to his for-profit endeavors, Dr. Andr&eacute;s is a professor of [Cyber Warfare and Cyber Terrorism](https://homelandsecurity.sdsu.edu/cyber) within the [Homeland Security](https://homelandsecurity.sdsu.edu/faculty/andres) graduate degree program at San Diego State University and has co-invented novel network security risk management methods in [U.S. Patent 8,201,257](https://www.google.com/patents/US8201257).
