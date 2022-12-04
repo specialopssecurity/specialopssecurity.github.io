@@ -223,13 +223,20 @@ hr {
   padding: 10px 0;
 }
 .books-photo {
-  width: 125px;
+  width: 75px;
 }
 .books-title {
   width: 100%;
-  font-size: 1.3em;
   font-weight: bold;
   padding: 15px;
+}
+@media only screen and (min-width: 36em) {
+  .books-photo {
+    width: 125px;
+  }
+  .books-title {
+    font-size: 1.3em;
+  }
 }
 
 
