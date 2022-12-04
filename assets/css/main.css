@@ -228,12 +228,16 @@ hr {
 }
 .books-wrapper {
   width: 100%;
+  display: flex;
+  padding: 0 5px;
 }
 .books-photo {
-  width: 150px;
+  width: 125px;
 }
 .books-title {
   width: 100%;
+  font-size: 1.3em;
+  font-weight: bold;
 }
 
 
