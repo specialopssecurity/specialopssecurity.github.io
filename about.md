@@ -12,18 +12,7 @@ We count among our distinguished client references some of the largest organizat
 
 ## Founders
 
-Special Ops Security, Inc., was originally formed in 2002 as a vehicle to support the writing efforts of the best-selling computer security [book](/books/) of the same name, while the two founders worked at Foundstone in Mission Viejo, California. When McAfee (now Intel Security) fully acquired Foundstone in late 2004, the founders dissolved and reformed a new for-profit stock corporation in Nevada that continues in good standing today, nearly two decades later.
-
-#### [Steven Andr&eacute;s](/andres/)
-
-* Founder and Managing Principal
-* __SA@SpecialOpsSecurity•com__ ([PGP](https://keybase.io/stevenandres/pgp_keys.asc?fingerprint=f8e8a9a76ab9452fea3925793ecf7d681f3fa845))
-* __[888-R-U-OWNED](tel:+18887869633)__ ext 111
-
-#### [Erik Pace Birkholz](https://twitter.com/erikbirkholz/status/1339061925708230658)
-
-* Retired shortly after founding in 2005
-* Passed away unexpectedly in 2020
+Special Ops Security, Inc., was originally formed in 2002 as a vehicle to support the writing efforts of the best-selling computer security [book](/books/) of the same name, while the two founders worked at Foundstone in Mission Viejo, California. When McAfee (now Intel Security) fully acquired Foundstone in late 2004, [Steven Andr&eacute;s](/andres/) and [Erik Pace Birkholz](https://twitter.com/erikbirkholz/status/1339061925708230658) reformed a new for-profit stock corporation in Nevada. Birkholz left to pursue other interests in 2005, but Andr&eacute;s continues to run the consulting firm in good standing up to today, nearly two decades later.  
 
 ## Assessors
 
