@@ -214,17 +214,16 @@ blockquote {
   background: #eee;
   padding: 25px;
 }
-h1 img {
+h2 img {
   border: 0;
-  height: 30px;
+  height: 27px;
 }
 
 .headshot {
-  align: right;
   width: 190px; 
   max-width: 190px; 
   margin-left: 15px; 
-  border-radius: 15px'
+  border-radius: 15px;
 }
 .books-cols {
   column-count: 2;
