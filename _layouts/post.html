@@ -40,18 +40,16 @@
         {% for book in page.books %}
         <div class="books-wrapper">
           <div class="books-photo">
-            [![book cover]({{ book.link }})]({{ book.photo }})
+            <a target="_blank" href="{{ book.link }}"><img alt="book cover" src="{{ book.photo }}" /></a>
           </div>
           <div class="books-title">
-            <p>{{ book.title }}</p>
+            <a target="_blank" href="{{ book.link }}">{{ book.title }}</a>
           </div><!-- books-title -->
         </div><!-- books-wrapper -->
         {% endfor %}
       </div><!-- books-cols -->
       {% endif %}
 
-    
-    
     </div><!-- container -->    
   </main>
 
