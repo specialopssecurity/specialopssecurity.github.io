@@ -24,6 +24,8 @@ hero_img: hero.png #  use the path from /assets/img/
 
 # BUILD SETTINGS
 markdown: kramdown
+kramdown:
+  input: Kramdown
 
 include: ['_pages']
 permalink: /:title/
