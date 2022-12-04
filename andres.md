@@ -5,7 +5,11 @@ permalink: /andres/
 ---
 
 
-## Steven Andr&eacute;s, Ph.D. [![LinkedIn](/assets/img/icon/linkedin.png)](https://linkedin.com/in/stevenandres){:target="_blank"} [🔒](https://keybase.io/stevenandres/pgp_keys.asc?fingerprint=f8e8a9a76ab9452fea3925793ecf7d681f3fa845){:target="_blank"}
+#  [![LinkedIn](/assets/img/icon/linkedin.png)](https://linkedin.com/in/stevenandres){:target="_blank"} [🎓](https://homelandsecurity.sdsu.edu/faculty/andres){:target="_blank"}
+
+* __SA@SpecialOpsSecurity•com__ ([PGP](https://keybase.io/stevenandres/pgp_keys.asc?fingerprint=f8e8a9a76ab9452fea3925793ecf7d681f3fa845))
+* __[888-R-U-OWNED](tel:+18887869633)__ ext 111
+
 
 [![headshot](/assets/img/team/andres.jpg)](/assets/img/team/andres.jpg){:target="_blank" :class="headshot"}
 Steven Andr&eacute;s is the founder of Special Ops Security and serves as its Managing Principal. He is a Certified Ethical Hacker (CEH) and earned the distinction of being a Certified Information Systems Security Professional (CISSP). With a little more than 22 years of professional experience, he is frequently invited to speak on secure architecture best practices and information security current events. In addition to his for-profit endeavors, Dr. Andr&eacute;s is a professor of [Cyber Warfare and Cyber Terrorism](https://homelandsecurity.sdsu.edu/cyber) within the [Homeland Security](https://homelandsecurity.sdsu.edu/faculty/andres) graduate degree program at San Diego State University and has co-invented novel network security risk management methods in [U.S. Patent 8,201,257](https://www.google.com/patents/US8201257).
@@ -17,11 +21,6 @@ Dr. Andr&eacute;s earned a Doctor of Philosophy degree in [Information Systems a
 In addition to the previously mentioned CEH and CISSP accolades, Dr. Andr&eacute;s has earned distinctions as a Certified Information Systems Auditor (CISA), an Information Security Architecture Professional (ISSAP), an Information Security Management Professional (ISSMP), the Information Security Risk (CRISC), and the INFOSEC Professional designation jointly-issued by the National Security Agency (NSA) and the Committee on National Security Systems (CNSS). He is listed as a subject-matter expert for the Information Assurance Technology Analysis Center (IATAC), chartered by the Department of Defense Technical Information Center (DTIC). Vendor-specific certifications include the Cisco Certified Network Professional (CCNP), Cisco Certified Security Professional (CCSP), Microsoft Certified Systems Engineer (MCSE), Novell Certified Network Engineer (CNE), and Checkpoint Certified Security Engineer (CCSE).
 
 
-* 888-R-U-OWNED ext 111
-* [SA@SpecialOpsSecurity.com](mailto:sa@specialopssecurity.com)
-* [PGP Public Key](https://keybase.io/stevenandres/pgp_keys.asc?fingerprint=f8e8a9a76ab9452fea3925793ecf7d681f3fa845)
-* [LinkedIn](https://linkedin.com/in/stevenandres) profile
-* [HSEC Faculty](https://homelandsecurity.sdsu.edu/faculty/andres) biography
 * [Enterprise Security Tips on a Small-Business Budget](https://www.pcworld.com/article/516904)
 * [How To Stay Safe on Public Wi-Fi](https://www.pcworld.com/article/512085/)
 * [How To Set Up a Secure Web Tunnel](https://www.pcworld.com/article/506907/)
