@@ -215,7 +215,7 @@ hr {
 .books-cols {
   column-count: 2;
   column-gap: 40px;
-  column-rule-style: solid;
+  column-rule: none;
 }
 .books-wrapper {
   width: 100%;
