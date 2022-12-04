@@ -27,7 +27,7 @@ As more fully described in our [Privacy Policy](/privacy/), you must disclose ce
 
 ### Consent to Our Communication
 
-By initiating e-mail with us, and each time you make a purchase of our service and products, you grant permission for Special Ops Security to contact you at your e-mail address. To stop receiving our marketing emails, send an e-mail to us at [sales@specialopssecurity.com](mailto:sales@specialopssecurity.com) or follow the opt-out procedures set forth in such marketing emails. 
+By initiating e-mail with us, and each time you make a purchase of our service and products, you grant permission for Special Ops Security to contact you at your e-mail address. To stop receiving our marketing emails, send an e-mail to us at [sales@specialopssecurity•com](#) or follow the opt-out procedures set forth in such marketing emails. 
 
 ### Conditions of the Sale and Payment Terms
 
