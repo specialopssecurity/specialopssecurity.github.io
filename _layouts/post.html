@@ -32,26 +32,27 @@
         {{ content }}
 
       </article>
-    </div>
-    
-    {% if page.books %}
+
+      {% if page.books %}
         
-    <div class="books-cols">
-      <div class="container">
+      <div class="books-cols">
+        
+        {% for book in page.books %}
         <div class="books-wrapper">
           <div class="books-photo">
-
-[![Special Ops]()]()
-
+            [![book cover]({{ book.link }})]({{ book.photo }})
           </div>
           <div class="books-title">
-            <p>Book Title</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    {% endif %}
+            <p>{{ book.title }}</p>
+          </div><!-- books-title -->
+        </div><!-- books-wrapper -->
+        {% endfor %}
+      </div><!-- books-cols -->
+      {% endif %}
+
     
+    
+    </div><!-- container -->    
   </main>
 
   {% include footer.html %}
