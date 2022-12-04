@@ -25,7 +25,6 @@ In addition to the previously mentioned CEH and CISSP accolades, Dr. Andr&eacute
 
 #### Media Appearances
 
-[<img class="biography" align="right" src="/assets/img/team/andres_media.png" title="Click to Expand" />](/assets/img/team/andres_media.png){:target="_blank"}
 
 * [Enterprise Security Tips on a Small-Business Budget](https://www.pcworld.com/article/516904)
 * [How To Stay Safe on Public Wi-Fi](https://www.pcworld.com/article/512085/)
@@ -33,4 +32,5 @@ In addition to the previously mentioned CEH and CISSP accolades, Dr. Andr&eacute
 * [Secure Your PC From Firesheep Session Hijacking](https://www.pcworld.com/article/498465/)
 * [How To Lock Down Your Wireless Network](https://www.pcworld.com/article/477902/)
 
+[<img class="biography" align="right" src="/assets/img/team/andres_media.png" title="Click to Expand" />](/assets/img/team/andres_media.png){:target="_blank"}
 
