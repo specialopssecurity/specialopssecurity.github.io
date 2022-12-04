@@ -16,16 +16,16 @@ Special Ops Security only shares your personally identifiable information as app
 
 ### Opt-Out / Updates
 
-You may opt-out of receiving communications from us by sending e-mail to [sales@specialopssecurity.com](mailto:sales@specialopssecurity.com). You may change or modify information previously provided by sending
+You may opt-out of receiving communications from us by sending e-mail to [sales@SpecialOpsSecurity•com](#). You may change or modify information previously provided by sending
 e-mail to the same address. 
 
 ### Change Notification 
 
-If at some point in the future, there is a change to our information usage practices that affect your Personally Identifiable Information, we will notify you by email of the relevant changes. At the time the message is sent and for seven days after that time, you will be able to opt-out of this information usage by sending a message to [sales@specialopssecurity.com](mailto:sales@specialopssecurity.com). You should also check this posted privacy statement for any changes.
+If at some point in the future, there is a change to our information usage practices that affect your Personally Identifiable Information, we will notify you by email of the relevant changes. At the time the message is sent and for seven days after that time, you will be able to opt-out of this information usage by sending a message to [sales@SpecialOpsSecurity•com](#). You should also check this posted privacy statement for any changes.
 
 ### Questions
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can email
-[sales@specialopssecurity.com](mailto:sales@specialopssecurity.com). Your email address and comments will only be used to respond to your inquiry. 
+[sales@SpecialOpsSecurity•com](#). Your email address and comments will only be used to respond to your inquiry. 
 
 _This policy was last updated on 07 APRIL 2005._
