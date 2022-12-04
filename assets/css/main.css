@@ -215,7 +215,12 @@ blockquote {
   padding: 25px;
 }
 
-
+.headshot {
+  width: 190px; 
+  max-width: 190px; 
+  margin-left: 15px; 
+  border-radius: 15px'
+}
 .books-cols {
   column-count: 2;
   column-gap: 40px;
