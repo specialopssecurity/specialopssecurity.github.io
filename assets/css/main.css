@@ -225,6 +225,11 @@ h2 img {
   margin-left: 20px; 
   border-radius: 15px;
 }
+.biography {
+  max-width: 40%;
+  margin-left: 20px;
+}
+
 .books-cols {
   column-count: 2;
   column-gap: 40px;
