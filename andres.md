@@ -5,10 +5,7 @@ permalink: /andres/
 ---
 
 
-#  [![LinkedIn](/assets/img/icons/linkedin.png)](https://linkedin.com/in/stevenandres){:target="_blank"} [🎓](https://homelandsecurity.sdsu.edu/faculty/andres){:target="_blank"}
-
-* __SA@SpecialOpsSecurity•com__ ([PGP](https://keybase.io/stevenandres/pgp_keys.asc?fingerprint=f8e8a9a76ab9452fea3925793ecf7d681f3fa845))
-* __[888-R-U-OWNED](tel:+18887869633)__ ext 111
+# SA@SpecialOpsSecurity•com [🔒](https://keybase.io/stevenandres/pgp_keys.asc?fingerprint=f8e8a9a76ab9452fea3925793ecf7d681f3fa845){:target="_blank"} [![LinkedIn](/assets/img/icons/linkedin.png)](https://linkedin.com/in/stevenandres){:target="_blank"} [🎓](https://homelandsecurity.sdsu.edu/faculty/andres){:target="_blank"} [📞](tel:+18887869633) ext 111
 
 
 [<img class="headshot" align="right" src="/assets/img/team/andres.jpg" title="Click to Expand" />](/assets/img/team/andres.jpg)
