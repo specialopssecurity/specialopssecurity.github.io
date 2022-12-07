@@ -33,15 +33,15 @@ Vendor-specific certifications include the Cisco Certified Network Professional 
 
 #### Newspaper
 
-* _New York Times_: [Data Breaches Keep Happening. So Why Don’t You Do Something?](https://www.nytimes.com/2018/08/01/technology/data-breaches.html){:target="_blank"}
-* _New York Times_: [Google Plus Will Be Shut Down After User Information Was Exposed](https://www.nytimes.com/2018/10/08/technology/google-plus-security-disclosure.html){:target="_blank"}
-* _Wall Street Journal_: [Trump Accuses Google of Suppressing Positive News About Presidency](https://www.wsj.com/articles/trump-accuses-google-of-suppressing-positive-news-about-his-presidency-1535459748){:target="_blank"}
-* _Associated Press_: [Google denies Trump charge it rigs Trump News searches](https://apnews.com/75b9486663fe45f5910bc558db24f65a/Google-denies-Trump-charge-it-rigs-Trump-News-searches){:target="_blank"}
-* _San Francisco Chronicle_: [California agrees to pause net neutrality rules amid messy legal battle](https://www.sfchronicle.com/business/article/California-agrees-to-pause-net-neutrality-rules-13339707.php){:target="_blank"}
-* _San Francisco Chronicle_: [California's net neutrality rules face legal test](https://www.sfchronicle.com/business/article/California-s-net-neutrality-rules-face-legal-13273282.php){:target="_blank"}
-* _San Diego Union-Tribune_: [Digital detecting: How FBI hackers catch criminals in cyberspace](http://www.sandiegouniontribune.com/news/public-safety/sd-me-fbi-hacker-20180819-story.html){:target="_blank"}
-* _San Diego Union-Tribune_: [LunaDNA to issue shares to people who contribute genetic data](http://www.sandiegouniontribune.com/business/technology/sd-fi-lunadna-rega-20181012-story.html){:target="_blank"}
-* _Palm Beach Post_: [Lake Worth 'zombie alert' hacker used a city email to breach system](https://www.mypalmbeachpost.com/news/lake-worth-zombie-alert-hacker-used-city-email-breach-system/DV1ugfLLxTuOOkMpckgfOJ/){:target="_blank"}
+* _New York Times:_ [Data Breaches Keep Happening. So Why Don’t You Do Something?](https://www.nytimes.com/2018/08/01/technology/data-breaches.html){:target="_blank"}
+* _New York Times:_ [Google Plus Will Be Shut Down After User Information Was Exposed](https://www.nytimes.com/2018/10/08/technology/google-plus-security-disclosure.html){:target="_blank"}
+* _Wall Street Journal:_ [Trump Accuses Google of Suppressing Positive News About Presidency](https://www.wsj.com/articles/trump-accuses-google-of-suppressing-positive-news-about-his-presidency-1535459748){:target="_blank"}
+* _Associated Press:_ [Google denies Trump charge it rigs Trump News searches](https://apnews.com/75b9486663fe45f5910bc558db24f65a/Google-denies-Trump-charge-it-rigs-Trump-News-searches){:target="_blank"}
+* _San Francisco Chronicle:_ [California agrees to pause net neutrality rules amid messy legal battle](https://www.sfchronicle.com/business/article/California-agrees-to-pause-net-neutrality-rules-13339707.php){:target="_blank"}
+* _San Francisco Chronicle:_ [California's net neutrality rules face legal test](https://www.sfchronicle.com/business/article/California-s-net-neutrality-rules-face-legal-13273282.php){:target="_blank"}
+* _San Diego Union-Tribune:_ [Digital detecting: How FBI hackers catch criminals in cyberspace](http://www.sandiegouniontribune.com/news/public-safety/sd-me-fbi-hacker-20180819-story.html){:target="_blank"}
+* _San Diego Union-Tribune:_ [LunaDNA to issue shares to people who contribute genetic data](http://www.sandiegouniontribune.com/business/technology/sd-fi-lunadna-rega-20181012-story.html){:target="_blank"}
+* _Palm Beach Post:_ [Lake Worth 'zombie alert' hacker used a city email to breach system](https://www.mypalmbeachpost.com/news/lake-worth-zombie-alert-hacker-used-city-email-breach-system/DV1ugfLLxTuOOkMpckgfOJ/){:target="_blank"}
 
 #### Television
 
