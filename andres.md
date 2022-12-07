@@ -75,9 +75,8 @@ Vendor-specific certifications include the Cisco Certified Network Professional 
 * KOGO: (Jul 2018) [Social Media's Role in Political Speech](https://youtube.com/watch?v=hwq49Lqf6OU){:target="_blank"}
 * KOGO: (Jun 2018) [Net Neutrality: changes coming?](https://youtube.com/watch?v=Zm65E25rn_Q){:target="_blank"}
 * KOGO: (Mar 2018) [The Problem with Click Bait](https://youtube.com/watch?v=pRCIS6OdGlk){:target="_blank"} and [Facebook's Privacy Obligation?](https://youtube.com/watch?v=Qr6M0vUVzGo){:target="_blank"}
-* KOGO: (Dec 2017) [Impact of the demise of net neutrality](https://youtube.com/watch?v=YgYfibhHZGs){:target="_blank"}
-* KOGO: (Nov 2017) [How does Net Neutrality work?](https://youtube.com/watch?v=Ov--OKcsQe0){:target="_blank"}
-* KOGO: (Sep 2017) [Hurricane Cyber Fraud](https://youtube.com/watch?v=yVgptiMu9Xk){:target="_blank"}
+* KOGO: (Dec 2017) [Impact of the demise of net neutrality](https://youtube.com/watch?v=YgYfibhHZGs){:target="_blank"} and [How does Net Neutrality work?](https://youtube.com/watch?v=Ov--OKcsQe0){:target="_blank"}
+* KOGO: (Sep 2017) [Cyber Fraud based on Hurricanes Harvey and Irma](https://youtube.com/watch?v=yVgptiMu9Xk){:target="_blank"}
 
 #### PC World Magazine
 
