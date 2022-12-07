@@ -25,8 +25,11 @@ In addition to the previously mentioned [CEH](https://www.eccouncil.org/programs
 
 Dr. Andr&eacute;s is listed as a subject-matter expert for the Information Assurance Technology Analysis Center ([IATAC](https://csiac.org/people/iatac/)), chartered by the Department of Defense Technical Information Center ([DTIC](https://discover.dtic.mil/)). Additionally, he is a Project Management Professional ([PMP](https://www.pmi.org/certifications/types/project-management-pmp)) and certified by the U.S. Federal Emergency Management Agency ([FEMA](https://fema.gov/)) as an Incident Commander for the National Incident Management System ([NIMS](https://training.fema.gov/nims/)). Vendor-specific certifications include the Cisco Certified Network Professional ([CCNP](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-routing-switching.html)), Cisco Certified Security Professional ([CCSP](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-security.html)), Microsoft Certified Systems Engineer ([MCSE](https://www.microsoft.com/en-us/learning/mcse-certification.aspx)), Novell Certified Network Engineer ([CNE](https://www.novell.com/training/certinfo/cne/)), and Checkpoint Certified Security Engineer ([CCSE](https://training-certifications.checkpoint.com/#/)).
 
+&nbsp;
+
 ![Media Appearances](/assets/img/team/andres_media.png)
 
+&nbsp;
 
 ### Media Appearances
 
