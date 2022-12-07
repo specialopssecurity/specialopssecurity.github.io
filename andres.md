@@ -27,6 +27,7 @@ Dr. Andr&eacute;s is listed as a subject-matter expert for the Information Assur
 
 ![Media Appearances](/assets/img/team/andres_media.png)
 
+
 ### Media Appearances
 
 #### Newspaper
