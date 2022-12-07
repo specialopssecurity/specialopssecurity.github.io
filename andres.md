@@ -86,5 +86,7 @@ In addition to the previously mentioned CEH and CISSP accolades, Dr. Andr&eacute
 * [Secure Your PC From Firesheep Session Hijacking](https://www.pcworld.com/article/498465/)
 * [How To Lock Down Your Wireless Network](https://www.pcworld.com/article/477902/)
 
+</div>
+
 [![Media Appearances](/assets/img/team/andres_media.png)](/assets/img/team/andres_media.png "Click to Expand"){:target="_blank"}
 
