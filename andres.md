@@ -29,8 +29,6 @@ Vendor-specific certifications include the Cisco Certified Network Professional 
 
 ### Media Appearances
 
-<div class="books-cols">
-
 ##### Newspaper
 
 * NYT: [Data Breaches Keep Happening. So Why Don’t You Do Something?](https://www.nytimes.com/2018/08/01/technology/data-breaches.html){:target="_blank"}
@@ -90,7 +88,6 @@ Vendor-specific certifications include the Cisco Certified Network Professional 
 * [Secure Your PC From Firesheep Session Hijacking](https://www.pcworld.com/article/498465/)
 * [How To Lock Down Your Wireless Network](https://www.pcworld.com/article/477902/)
 
-</div>
 
 [![Media Appearances](/assets/img/team/andres_media.png)](/assets/img/team/andres_media.png "Click to Expand"){:target="_blank"}
 
