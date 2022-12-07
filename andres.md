@@ -27,11 +27,11 @@ Dr. Andr&eacute;s is listed as a subject-matter expert for the Information Assur
 
 Vendor-specific certifications include the Cisco Certified Network Professional ([CCNP](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-routing-switching.html)), Cisco Certified Security Professional ([CCSP](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-security.html)), Microsoft Certified Systems Engineer ([MCSE](https://www.microsoft.com/en-us/learning/mcse-certification.aspx)), Novell Certified Network Engineer ([CNE](https://www.novell.com/training/certinfo/cne/)), and Checkpoint Certified Security Engineer ([CCSE](https://training-certifications.checkpoint.com/#/)).
 
+![Media Appearances](/assets/img/team/andres_media.png)
+
 ### Media Appearances
 
-[![Media Appearances](/assets/img/team/andres_media.png)](/assets/img/team/andres_media.png "Click to Expand"){:target="_blank"}
-
-##### Newspaper
+#### Newspaper
 
 * NYT: [Data Breaches Keep Happening. So Why Don’t You Do Something?](https://www.nytimes.com/2018/08/01/technology/data-breaches.html){:target="_blank"}
 * NYT: [Google Plus Will Be Shut Down After User Information Was Exposed](https://www.nytimes.com/2018/10/08/technology/google-plus-security-disclosure.html){:target="_blank"}
@@ -43,7 +43,7 @@ Vendor-specific certifications include the Cisco Certified Network Professional 
 * U-T: [LunaDNA to issue shares to people who contribute genetic data](http://www.sandiegouniontribune.com/business/technology/sd-fi-lunadna-rega-20181012-story.html){:target="_blank"}
 * Palm Beach Post: [Lake Worth 'zombie alert' hacker used a city email to breach system](https://www.mypalmbeachpost.com/news/lake-worth-zombie-alert-hacker-used-city-email-breach-system/DV1ugfLLxTuOOkMpckgfOJ/){:target="_blank"}
 
-##### Television
+#### Television
 
 * FOX 5 TV: [Congress Grills Facebook CEO Zuckerberg](https://www.youtube.com/watch?v=l5PGD23nFtU){:target="_blank"} (Live In-Studio)
 * ABC 10 TV: [Authorities warn ATM users of hidden cameras](https://www.10news.com/news/local-news/authorities-warn-atm-users-of-hidden-cameras){:target="_blank"}
@@ -53,7 +53,7 @@ Vendor-specific certifications include the Cisco Certified Network Professional 
 * NBC 7 TV: [Port of San Diego Hit with Ransomware; Hackers Demanded Payment in Bitcoin](https://www.nbcsandiego.com/news/local/Port-of-San-Diego-Hit-with-Ransomware-Hackers-Demanded-Payment-in-Bitcoin-494548991.html){:target="_blank"}
 * NBC 4 TV: [Google Plus shutting down after user data leak](https://www.kron4.com/news/bay-area/google-plus-shutting-down-after-user-data-leak/1522577363){:target="_blank"}
 
-##### Online
+#### Online
 
 * Bloomberg: [Popular Smart Home Devices Carry Cybersecurity Risks](https://news.bloomberglaw.com/privacy-and-data-security/popular-smart-home-devices-carry-cybersecurity-risks-1){:target="_blank"}
 * BI: [Scam call causes Apple's logo to pop up on your iPhone lock screen](https://www.businessinsider.com/apple-phone-number-logo-shows-up-on-iphones-in-scam-calls-2019-1){:target="_blank"}
@@ -64,31 +64,28 @@ Vendor-specific certifications include the Cisco Certified Network Professional 
 * SDSU: [Four Questions on Safe Online Shopping this Holiday Season](http://newscenter.sdsu.edu/sdsu_newscenter/news_story.aspx?sid=77490){:target="_blank"}
 * CSU: [Cyber Monday: 5 Ways to Protect Your Credit](https://www2.calstate.edu/csu-system/news/pages/cyber-monday-do-you-know-these-5-ways-to-protect-your-credit.aspx){:target="_blank"}
 
-##### Radio 
+#### Radio 
 
 * KPBS: [Scam Calls Predicted To Increase To Nearly Half Of All Cell Phone Calls In 2019](https://www.kpbs.org/news/2018/sep/26/scam-calls-predicted-increase-nearly-half-all-cell/){:target="_blank"}
 * KPCC: [AirTalk: Trump accuses Google of rigging search results](http://www.scpr.org/programs/airtalk/2018/08/30/63608/-){:target="_blank"}
-* KOGO: [Thieves Use Cameras To Steal Your ATM PIN](https://youtube.com/watch?v=zUSSTLjJVfw){:target="_blank"}
-* KOGO: [Is it safe to shop on your mobile device?](https://youtube.com/watch?v=s51lesJ6vE0){:target="_blank"}
-* KOGO: [Does Google suppress positive Trump news?](https://youtube.com/watch?v=da0AVDcamEU){:target="_blank"}
-* KOGO: [What Do Russian Hackers Have to Gain?](https://youtube.com/watch?v=q0YGmdZYBWc){:target="_blank"}
-* KOGO: [What is Shadow Banning?](https://youtube.com/watch?v=Sb0I8cONoTg){:target="_blank"}
-* KOGO: [Where's the DNC server?](https://youtube.com/watch?v=ILWngij5mbI){:target="_blank"}
-* KOGO: [Social Media's Role in Political Speech](https://youtube.com/watch?v=hwq49Lqf6OU){:target="_blank"}
-* KOGO: [Net Neutrality: changes coming?](https://youtube.com/watch?v=Zm65E25rn_Q){:target="_blank"}
-* KOGO: [Facebook's Privacy Obligation?](https://youtube.com/watch?v=Qr6M0vUVzGo){:target="_blank"}
-* KOGO: [The Problem with Click Bait](https://youtube.com/watch?v=pRCIS6OdGlk){:target="_blank"}
-* KOGO: [Impact of repeal](https://youtube.com/watch?v=YgYfibhHZGs){:target="_blank"}
-* KOGO: [Net Neutrality](https://youtube.com/watch?v=Ov--OKcsQe0){:target="_blank"}
-* KOGO: [Hurricane Cyber Fraud](https://youtube.com/watch?v=yVgptiMu9Xk){:target="_blank"}
+* KOGO: (Mar 2019) [Thieves Use Cameras To Steal Your ATM PIN](https://youtube.com/watch?v=zUSSTLjJVfw){:target="_blank"}
+* KOGO: (Dec 2018) [Is it safe to shop on your mobile device?](https://youtube.com/watch?v=s51lesJ6vE0){:target="_blank"}
+* KOGO: (Aug 2018) [Does Google suppress positive Trump news?](https://youtube.com/watch?v=da0AVDcamEU){:target="_blank"} and [What Do Russian Hackers Have to Gain?](https://youtube.com/watch?v=q0YGmdZYBWc){:target="_blank"}
+* KOGO: (Jul 2018) [Where's the DNC server?](https://youtube.com/watch?v=ILWngij5mbI){:target="_blank"} and [What is Shadow Banning?](https://youtube.com/watch?v=Sb0I8cONoTg){:target="_blank"} and [Social Media's Role in Political Speech](https://youtube.com/watch?v=hwq49Lqf6OU){:target="_blank"}
+* KOGO: (Jun 2018) [Net Neutrality: changes coming?](https://youtube.com/watch?v=Zm65E25rn_Q){:target="_blank"}
+* KOGO: (Mar 2018) [The Problem with Click Bait](https://youtube.com/watch?v=pRCIS6OdGlk){:target="_blank"} and [Facebook's Privacy Obligation?](https://youtube.com/watch?v=Qr6M0vUVzGo){:target="_blank"}
+* KOGO: 
+* KOGO: (Dec 2017) [Impact of the demise of net neutrality](https://youtube.com/watch?v=YgYfibhHZGs){:target="_blank"}
+* KOGO: (Nov 2017) [How does Net Neutrality work?](https://youtube.com/watch?v=Ov--OKcsQe0){:target="_blank"}
+* KOGO: (Sep 2017) [Hurricane Cyber Fraud](https://youtube.com/watch?v=yVgptiMu9Xk){:target="_blank"}
 
-##### Magazine
+#### PC World Magazine
 
-* [Enterprise Security Tips on a Small-Business Budget](https://www.pcworld.com/article/516904)
-* [How To Stay Safe on Public Wi-Fi](https://www.pcworld.com/article/512085/)
-* [How To Set Up a Secure Web Tunnel](https://www.pcworld.com/article/506907/)
-* [Secure Your PC From Firesheep Session Hijacking](https://www.pcworld.com/article/498465/)
-* [How To Lock Down Your Wireless Network](https://www.pcworld.com/article/477902/)
+* (Feb 2010) [Enterprise Security Tips on a Small-Business Budget](https://www.pcworld.com/article/516904)
+* (Apr 2010) [How To Stay Safe on Public Wi-Fi](https://www.pcworld.com/article/512085/)
+* (Jun 2010) [How To Set Up a Secure Web Tunnel](https://www.pcworld.com/article/506907/)
+* (Nov 2010) [Secure Your PC From Firesheep Session Hijacking](https://www.pcworld.com/article/498465/)
+* (Nov 2011) [How To Lock Down Your Wireless Network](https://www.pcworld.com/article/477902/)
 
 
 
