@@ -10,24 +10,24 @@ permalink: /andres/
 [<img class="headshot" align="right" src="/assets/img/team/andres.jpg" title="Click to Expand" />](/assets/img/team/andres.jpg){:target="_blank"}
 Steven Andr&eacute;s is the founder of Special Ops Security and serves as its Managing Principal. He is a Certified Ethical Hacker (CEH) and earned the distinction of being a Certified Information Systems Security Professional (CISSP). With a little more than 22 years of professional experience, he is frequently invited to speak on secure architecture best practices and information security current events. In addition to his for-profit endeavors, Dr. Andr&eacute;s is a professor of [Cyber Warfare and Cyber Terrorism](https://homelandsecurity.sdsu.edu/cyber){:target="_blank"} within the [Homeland Security](https://homelandsecurity.sdsu.edu/faculty/andres){:target="_blank"} graduate degree program at San Diego State University and has co-invented novel network security risk management methods in [U.S. Patent 8,201,257](https://www.google.com/patents/US8201257){:target="_blank"}.
 
-#### Publications
+### Publications
 
 His published works include his dissertation on [_Disposable Social Media Profiles_](https://gradworks.umi.com/37/38/3738586.html){:target="_blank"} and their impact for anonymous and un-attributable speech within Arab Spring countries, journal-published [human behavior social research in security awareness](https://homelandsecurity.sdsu.edu/faculty/andres){:target="_blank"}, his Master's thesis [_Fourth &amp; Fifth Generation Warfare: Implications on Information Security_](https://libpac.sdsu.edu/record=b3636115){:target="_blank"}, as well as three commercially-successful published books: the [_Security Sage's Guide to Hardening the Network Infrastructure_](https://amazon.com/o/ASIN/1931836019/?tag=specopssecu-20){:target="_blank"}, the internationally best-selling [_Hacking Exposed: Fourth Edition_](https://amazon.com/o/ASIN/0072227427/?tag=specopssecu-20){:target="_blank"}, our namesake [_SPECIAL OPS: Host and Network Security_](https://amazon.com/o/ASIN/1931836698/?tag=specopssecu-20){:target="_blank"}. As a freelance writer for _PC World Magazine_, his articles on security best practices reached 4.5 million print subscribers and were syndicated worldwide by IDG and its online affiliates to over 15 million.
 
-#### Education
+### Education
 
 Dr. Andr&eacute;s earned a Doctor of Philosophy degree in [Information Systems and Technology](https://www.cgu.edu/school/center-for-information-systems-and-technology/){:target="_blank"} from the Peter F. Drucker School of Management at [Claremont Graduate University](https://www.cgu.edu){:target="_blank"}, a Masters of Science inter-disciplinary degree in [Homeland Security](https://homelandsecurity.sdsu.edu){:target="_blank"} from [San Diego State University](https://www.sdsu.edu){:target="_blank"}, and a dual-major degree in Business and Economics with a specialization in Computing from the [birthplace of the Internet](https://samueli.ucla.edu/internet50/){:target="_blank"}, the [University of California Los Angeles (UCLA)](https://ucla.edu){:target="_blank"}.
 
-#### Certifications
+### Certifications
 
 [<img class="biography" align="right" src="/assets/img/team/andres_cert.png" title="Click to Expand" />](/assets/img/team/andres_cert.png){:target="_blank"}
 In addition to the previously mentioned CEH and CISSP accolades, Dr. Andr&eacute;s has earned distinctions as a Certified Information Systems Auditor (CISA), an Information Security Architecture Professional (ISSAP), an Information Security Management Professional (ISSMP), the Information Security Risk (CRISC), and the INFOSEC Professional designation jointly-issued by the National Security Agency (NSA) and the Committee on National Security Systems (CNSS). He is listed as a subject-matter expert for the Information Assurance Technology Analysis Center (IATAC), chartered by the Department of Defense Technical Information Center (DTIC). Vendor-specific certifications include the Cisco Certified Network Professional (CCNP), Cisco Certified Security Professional (CCSP), Microsoft Certified Systems Engineer (MCSE), Novell Certified Network Engineer (CNE), and Checkpoint Certified Security Engineer (CCSE).
 
-#### Media Appearances
+### Media Appearances
 
 <div class="books-cols">
 
-#### Newspaper
+##### Newspaper
 
 * NYT: [Data Breaches Keep Happening. So Why Don’t You Do Something?](https://www.nytimes.com/2018/08/01/technology/data-breaches.html){:target="_blank"}
 * NYT: [Google Plus Will Be Shut Down After User Information Was Exposed](https://www.nytimes.com/2018/10/08/technology/google-plus-security-disclosure.html){:target="_blank"}
@@ -39,7 +39,7 @@ In addition to the previously mentioned CEH and CISSP accolades, Dr. Andr&eacute
 * U-T: [LunaDNA to issue shares to people who contribute genetic data](http://www.sandiegouniontribune.com/business/technology/sd-fi-lunadna-rega-20181012-story.html){:target="_blank"}
 * Palm Beach Post: [Lake Worth 'zombie alert' hacker used a city email to breach system](https://www.mypalmbeachpost.com/news/lake-worth-zombie-alert-hacker-used-city-email-breach-system/DV1ugfLLxTuOOkMpckgfOJ/){:target="_blank"}
 
-#### Television
+##### Television
 
 * FOX 5 TV: [Congress Grills Facebook CEO Zuckerberg](https://www.youtube.com/watch?v=l5PGD23nFtU){:target="_blank"} (Live In-Studio)
 * ABC 10 TV: [Authorities warn ATM users of hidden cameras](https://www.10news.com/news/local-news/authorities-warn-atm-users-of-hidden-cameras){:target="_blank"}
@@ -49,7 +49,7 @@ In addition to the previously mentioned CEH and CISSP accolades, Dr. Andr&eacute
 * NBC 7 TV: [Port of San Diego Hit with Ransomware; Hackers Demanded Payment in Bitcoin](https://www.nbcsandiego.com/news/local/Port-of-San-Diego-Hit-with-Ransomware-Hackers-Demanded-Payment-in-Bitcoin-494548991.html){:target="_blank"}
 * NBC 4 TV: [Google Plus shutting down after user data leak](https://www.kron4.com/news/bay-area/google-plus-shutting-down-after-user-data-leak/1522577363){:target="_blank"}
 
-#### Online
+##### Online
 
 * Bloomberg: [Popular Smart Home Devices Carry Cybersecurity Risks](https://news.bloomberglaw.com/privacy-and-data-security/popular-smart-home-devices-carry-cybersecurity-risks-1){:target="_blank"}
 * BI: [Scam call causes Apple's logo to pop up on your iPhone lock screen](https://www.businessinsider.com/apple-phone-number-logo-shows-up-on-iphones-in-scam-calls-2019-1){:target="_blank"}
@@ -60,7 +60,7 @@ In addition to the previously mentioned CEH and CISSP accolades, Dr. Andr&eacute
 * SDSU: [Four Questions on Safe Online Shopping this Holiday Season](http://newscenter.sdsu.edu/sdsu_newscenter/news_story.aspx?sid=77490){:target="_blank"}
 * CSU: [Cyber Monday: 5 Ways to Protect Your Credit](https://www2.calstate.edu/csu-system/news/pages/cyber-monday-do-you-know-these-5-ways-to-protect-your-credit.aspx){:target="_blank"}
 
-#### Radio 
+##### Radio 
 
 * KPBS: [Scam Calls Predicted To Increase To Nearly Half Of All Cell Phone Calls In 2019](https://www.kpbs.org/news/2018/sep/26/scam-calls-predicted-increase-nearly-half-all-cell/){:target="_blank"}
 * KPCC: [AirTalk: Trump accuses Google of rigging search results](http://www.scpr.org/programs/airtalk/2018/08/30/63608/-){:target="_blank"}
@@ -78,7 +78,7 @@ In addition to the previously mentioned CEH and CISSP accolades, Dr. Andr&eacute
 * KOGO: [Net Neutrality](https://youtube.com/watch?v=Ov--OKcsQe0){:target="_blank"}
 * KOGO: [Hurricane Cyber Fraud](https://youtube.com/watch?v=yVgptiMu9Xk){:target="_blank"}
 
-#### Magazine
+##### Magazine
 
 * [Enterprise Security Tips on a Small-Business Budget](https://www.pcworld.com/article/516904)
 * [How To Stay Safe on Public Wi-Fi](https://www.pcworld.com/article/512085/)
