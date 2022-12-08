@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/stevenandres
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://specialopssecurity.com
+  * I am stevenandres (https://keybase.io/stevenandres) on keybase.
+  * I have a public key with fingerprint F8E8 A9A7 6AB9 452F EA39  2579 3ECF 7D68 1F3F A845
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f8e8a9a76ab9452fea3925793ecf7d681f3fa845",
+            "host": "keybase.io",
+            "key_id": "3ecf7d681f3fa845",
+            "kid": "0111664d41d397223ed2f4d67d25301cddd213ccf9e9066403deba9928b881a8427b0a",
+            "uid": "e5d50b8af2e850017a4b97a7ebac6019",
+            "username": "stevenandres"
+        },
+        "service": {
+            "hostname": "specialopssecurity.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1424820711,
+    "expire_in": 157680000,
+    "prev": "c1c2592119194d640ea3dee218d1ff577fb72423eb22758bc2a31154e1ed8027",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+owFtkr+LFDEUx8fzB9yBcIdYCwHFYjnyMpNJMoJXKSjaeNYu+fGyG+5uZpyZXW85
+thXBxr/gSrG18C+wtLC1FRt/INoIByKYLF5nmpD3vu+TvG/ei4tns7Wtm++X0ys7
+r26deffFZA+/r387IqZxC1IdkT1cbT7UE+zaLtQDqYiXKLXSotRGFZx51LliXKgc
+rReulOBzr2XByYhMmz5VRIzRPW6HJsbiYRxcjP5Hv7dKUAAoy8IV4HIlGMvRMV+4
+UjjGcwrWOccgt9YrVDQKae7QaKWYNFJCRDFhqI642QqH3HFqpPYMJacUhC6MElrE
+GltSUEnYY1frA4zqfsA51rp2HfZkOSIxMw8Wkw2pm1NVizbo/abte7SzLgyLbdsc
+RFLbNUNjm/2omQ5D21eJMSzaVPQEzfgfbmxC7aKrsWKOXR+amlQQlXYIiQ8FKySj
+AmBE8LANHY5DUnBRShpXugfnEWnBMq4YgAIVHSpo/AyHyEA68J4L4Y1gRXTQMCa4
+NJbpHIAXCOgkZYKkBh/XDany+Ey9OUm9hUmth1mHZLnx7Pa5bGstu3B+LQ1GtrG+
+eTotfz5kxzt3P+1e0zcuv3n+a/fl2+nV159/q+xYPLr+486lk5N7h0/HH+8/4F8r
+9vMv
+=YrZI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stevenandres
+
+==================================================================
+
