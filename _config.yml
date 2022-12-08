@@ -31,5 +31,6 @@ include: ['_pages']
 permalink: /:title/
 
 plugins:
+  - jekyll-redirect-from
 
 
