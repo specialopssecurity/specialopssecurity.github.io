@@ -2,6 +2,8 @@
 layout: page
 title: About Us
 permalink: /about/
+redirect_from:
+  - /company/
 ---
 
 Our team has contributed to [twelve books](/books/) and U.S. Patents. You are in good hands with our team's combined 135 years of professional information security experience at KPMG, Ernst &amp; Young, Accenture, TruSecure, Internet Security Systems (ISS), Foundstone, VMware, ServiceNow, and Square (now Block). 
