@@ -2,6 +2,9 @@
 layout: page
 title: Steven Andrés, Ph.D.
 permalink: /andres/
+redirect_from:
+  - /company/team/andres/
+  - /company/team/
 ---
 
 
